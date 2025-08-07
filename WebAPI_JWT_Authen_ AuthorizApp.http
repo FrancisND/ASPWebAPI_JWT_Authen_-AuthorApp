@@ -1,6 +1,0 @@
-@WebAPI_JWT_Authen__AuthorizApp_HostAddress = http://localhost:5132
-
-GET {{WebAPI_JWT_Authen__AuthorizApp_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
